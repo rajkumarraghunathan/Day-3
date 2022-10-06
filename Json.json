@@ -1,0 +1,46 @@
+{
+    "basics": {
+      "name": "Rajkumar",
+      "label": "Programmer",
+      "email": "9003490676raj@gmail.com",
+      "phone": 9626711579,
+      "location": {
+        "address": "XXXX",
+        "postalCode": "XXXX",
+        "city": "XXXX",
+        "country": "India",
+        "State":"TN"
+      },
+    "work": [{
+      "name": "XXX"
+    }]
+    },
+      "education": [{
+      "College":"KCE",
+      "Dept":"Mech",
+      "CGPA":8.35
+}],
+   
+      "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language1": "English",
+      "language2":"Tamil"
+       }]
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
